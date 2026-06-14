@@ -157,9 +157,11 @@ export default function Home() {
             className="grid gap-8"
             style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))' }}
           >
-            {posts.map((post, i) => (
-              <PostCard key={post.slug} post={post} index={i} />
-            ))}
+            {[...posts]
+              .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+              .map((post, i) => (
+                <PostCard key={post.slug} post={post} index={i} />
+              ))}
           </div>
         </div>
       </section>
