@@ -7,6 +7,7 @@ export interface Post {
   rotation: number;
   tapeColor: 'yellow' | 'blue';
   paragraphs: string[];
+  rawHtml?: string;
 }
 
 export const posts: Post[] = [
@@ -77,6 +78,156 @@ export const posts: Post[] = [
       `Now as we near the end of this massive article, I ask you, reader, what did you think was the meaning of all this? Everything you just read? Did it have any meaning at all? Or did it mean <a href="https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once" target="_blank">everything at the same time</a>? Again, the beauty that <strong>God</strong> gave us <strong>free will</strong> means that you don't have to be forced to make a decision about the meaning of this article. What matters is that you (hopefully) appreciated my article, and related to my stupid references, and agreed, or disagreed, with parts of it. That's the beauty of art of which we can all, as a society, agree on. Art was made to be <strong>interpreted</strong>, not <strong>understood</strong>.`,
       `Although to be honest there is one meaning of which I did propose for this article, and that is that art has <strong>no fixed meaning</strong>. So does that mean since this article is <strong>a piece of art</strong>, it also <strong>does not have a fixed meaning?</strong> Wait, but I just told you this piece of art <strong>does have a fixed meaning?</strong> Dammit, we're stuck in a paradox, this reminds me of my discrete math class.`,
     ],
+  },
+  {
+    slug: 'requiem-for-a-broken-heart',
+    title: 'Requiem for a Broken Heart',
+    tagline: 'Here is a short story I wrote back in my senior year for Literature enjoy lol',
+    date: 'May 31, 2026',
+    tags: ['fiction', 'writing'],
+    rotation: 1.8,
+    tapeColor: 'blue',
+    paragraphs: [],
+    rawHtml: `
+<p>His loosened tie swept against his blazer as it danced with the early Monday morning breeze. He was a mess: unshaved stubble bloomed like sowed seeds in their youth, and his untucked shirt was patterned with the wrinkles of a prune. His sleep schedule had fallen into a deep decline, and eye bags found themselves sagging beneath his hazelly-brown eyes. Today, Kai turned 18. Today, the web of destiny would be unravelled. He was on edge as he walked to class. As he ate. As he watched his teacher's mouth utter seemingly inaudible phrases. Class, after class, after class.</p>
+
+<p style="padding-left:2.5rem">"In this piece of literature… the significance of the self-fulfilling prophecy…"</p>
+<p style="padding-left:2.5rem">Then the bell finally rang.</p>
+<p style="padding-left:2.5rem">"Jay! Happy 18th man, what did it turn out to be?"</p>
+<p style="padding-left:2.5rem">"Says I've got 63 years. Something to do with lung cancer?"</p>
+<p style="padding-left:2.5rem">"Makes sense. Like father like son, right? Smoking twenty cigs a day." Jay punched Kai's arm with a chuckle.</p>
+<p style="padding-left:2.5rem">"What about you?"</p>
+<p style="padding-left:2.5rem">"What do you mean?" Kai's smile didn't reach his eyes.</p>
+<p style="padding-left:2.5rem">Jay raised his eyebrow. "Your prediction. Duh."</p>
+<p style="padding-left:2.5rem">Kai's heart skipped a beat.</p>
+<p style="padding-left:2.5rem">"Haven't checked yet." Kai shrugged.</p>
+
+<p style="text-indent:2em">His smile faded as he turned away from Jay. Kai's heart seemed to race at an improbable rate, almost like it was trying to escape his chest. The truth was the prediction was all he had on his mind for the past month. He spent hours, analysing his past and attempting to foresee his own prediction. <em>Will I live till I'm old? Die peacefully?</em> In fact, Kai preferred he didn't die at all. Ever. Why give life, only to take it away? He noticed that he had begun to ask himself questions that either he didn't know how to answer, or he preferred not to answer. It was quite infuriating. Yet despite his yearning desire to reveal his fate, he knew he simply couldn't handle it alone.</p>
+
+<p style="text-align:center;letter-spacing:.4em;margin:2.5rem 0;color:#8a7a68">* * *</p>
+
+<p style="text-indent:2em">There she stood, patiently waiting for his arrival. In the afternoon breeze that swept its way through the city's metropolis, her dark hair ever so slightly danced, alike to the flickering flames of a soft campfire. That slim waist, her elegant gestures, her smooth skin, that gorgeously adorable face which could be both inviting and intimidating depending on her mood. Her voice was silky smooth, like a hot knife through butter. It had a hint of something to it, something Kai had never seemed to figure out. It sure was addictive and he could listen to her gossip on and on all day.</p>
+
+<p style="text-indent:2em">Kai never seemed to figure out when exactly his obsession with Rei began. Perhaps it was the very first time they met in preschool. Or the mortifying day he asked her to the year 6 dance. Either way, his heart always seemed to flutter like a butterfly's wings simply at the sight of her. Bursts of dopamine flooded throughout his bloodstream. Rei's presence was Kai's drug, and she gave him feelings of what could only be described as beyond euphoric.</p>
+
+<p style="text-indent:2em">She spotted him amongst the crowd and ran over, beaming. Kai loved when she smiled – she had one of those rare smiles which were dangerously contagious.</p>
+
+<p style="text-indent:2em">"Happy birthday! Soon you'll be in a retirement home dude." Rei laughed. Kai tried his best to laugh with her, his hands fidgeting in the pockets of his blazer. She glanced over and grabbed his shivering hands, a weak smile upon her countenance.</p>
+
+<p style="text-indent:2em"><em>Shit. Why did she have to grab my hands like that.</em></p>
+
+<p style="text-indent:2em">"You haven't checked your prediction, have you?" she said softly. Kai, his hands clammy with sweat, shook his head.</p>
+
+<p style="text-indent:2em">"I wanted to do it with you," He replied. Rei looked at him, her familiar smirk back on her dumb, pretty face. She gripped his hand and nodded. Kai brought out his phone. Sweat fell upon the screen as he tried to wipe it away with his blazer sleeves. Kai glanced at Rei, his face, red as a stop sign. He closed his eyes, took a single deep breath, and opened the app.</p>
+
+<p style="text-indent:2em">Eight words sat on the screen.</p>
+
+<p style="text-indent:2em"><em>"The end is near. Stabbed in the heart."</em></p>
+
+<p style="text-indent:2em">Kai's face crumbled with every word he read. His eyes swelled with tears. His breathing became rapid and shallow. A tingling sensation infested his head, and at once, vertigo struck him like a piercing bolt of lightning. Off balance, Kai collapsed, his countenance lay in a state of absolute horror and disbelief. The worst and most improbable outcome he had envisioned had just been brought to reality. After hours upon hours of analysis and overthinking. Self-reassurance and panic attacks. It all led up to this moment. And it turns out he did, in fact, have a reason to worry. And that was a conclusion he wasn't ready to accept.</p>
+
+<p style="text-indent:2em">In the distance, he could make out a faint tune. It had an eerie sense to it; perhaps it was the melody of death. Voices harmonised softly, then all at once went silent as quickly as they began.</p>
+
+<p style="text-indent:2em"><em>Did you hear that?</em></p>
+
+<p style="text-indent:2em">Kai's mind began to race; he started to formulate millions of possibilities that could result in his demise. <em>Stabbed in the heart.</em> Was someone after him? <em>The end is near.</em> Just how long exactly did he have? Perhaps the perpetrator was right next to him at this very moment. He glanced frantically at the hundreds of potential killers that passed him by.</p>
+
+<p style="text-indent:2em"><em>He's got a funny looking jacket. She has two different socks on: signs of a psychopath? Why is he looking at me? Why… why is everyone looking at me?</em></p>
+
+<p style="text-indent:2em">Nobody, was in fact, looking at him at all. But Kai couldn't convince himself to truly believe that. Softly, an enigmatic melody began to play somewhere beyond the horizon. It seemed to come from every direction, like a haunting yet intriguing aura.</p>
+
+<p style="text-indent:2em"><em>Do you hear that?</em></p>
+
+<p style="text-indent:2em">There was a single thought on his mind: death. He wasn't ready for it; he thought of the things he wished he could've done in the past. All his missed opportunities, failures, and embarrassments seemed to consume his thoughts. He didn't have the time to say goodbye to everyone he loved. His parents. His friends. Rei.</p>
+
+<p style="text-indent:2em"><em>Rei…</em></p>
+
+<p style="text-indent:2em">His greatest accomplishment in life: becoming her friend. She was always there for him. Even now, tears streamed down her face as she desperately cried out his name, hoping for any reaction from his blank face. He had always stared with great intent at all the little things. The way she tucked her hair behind her ears. That entrancing walk. When she turned around and her hair all at once seemed to flutter in the air, like a graceful cascade of darkened leaves caught in an autumn breeze. It was insanely agonising, the fact that Kai knew he could spend every day with her, yet in the end, she'd always be just out of reach. Like an exquisite watch, sitting on display each day waiting for a better man to take it home. No matter how many loans he took, he felt as if he'd never match its worth. Her worth.</p>
+
+<p style="text-indent:2em">As he contemplated death, there was but one other thing that dominated his thoughts. Regret. He knew the past was unchangeable. Yet he began to realise that there was still time. In fact, time was the only thing he still had. Perhaps he could die experiencing the refreshing embrace of contentment. But first came the banishment of his regret. And it began and ended with her.</p>
+
+<p style="text-indent:2em">How many years had he waited for this moment? His heart and his mind had fought often on the topic of confession. She was his best friend. But no, he admired her more than that. His infatuation had translated to another form of… what do you call it?</p>
+
+<p style="text-indent:2em">Love.</p>
+
+<p style="text-indent:2em">He loved her. He felt a deep connection with her, rooted like a great elm into his brain. He relied on her. He needed her. Kai often feared what life would be like in the absence of Rei. The absence of love. That fear is what fuelled the cruel dilemma which kept his confession sealed for so many years. Confess, and he risked rejection. Refuse to confess, and he tortured himself everyday with the knowledge that they would never fall in love. Either way, it ended with heartbreak. A Catch-22.</p>
+
+<p style="text-indent:2em">He began to hear the ominous theme crescendo; this time a harrowing choir joined the orchestra. Its volume was terribly loud – Kai began to block his ears in agony.</p>
+
+<p style="text-indent:2em"><em>What are they saying?</em></p>
+<p style="text-indent:2em"><em>I can't understand a single word.</em></p>
+<p style="text-indent:2em"><em>Do you hear that?</em></p>
+
+<p style="text-indent:2em">"Can you hear that?"</p>
+
+<p style="text-indent:2em">Confused, Rei shook her head and placed her hand on his in an attempt at comfort. At the instant of her touch, a piercing pain struck Kai's heart. He cried in agony and pulled his hand away. Rei's expression was unfathomable. She was completely overwhelmed by feelings of concern and complete shock. Kai began to cry. Shamelessly, torrents of tears flowed from his eyes to the ground. He proceeded to tell Rei absolutely everything.</p>
+
+<p style="text-align:center;letter-spacing:.4em;margin:2.5rem 0;color:#8a7a68">* * *</p>
+
+<p style="text-indent:2em">The song had died down. Its climax seemingly over. The harmonising voices had gone silent, and all that remained was the percussion.</p>
+
+<p style="text-indent:2em">As he spoke the last words on his mind, his whole face was in a flush, and his heart seemed to beat in sequence with the drums of the song.</p>
+
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"Kai. I love you like a brother. I would die for you. I really would."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"But…"</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"I'm not sure if I love you in that way."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>"I'm… Sorry…"</em></p>
+
+<p style="text-indent:2em">Kai scoffed. Perhaps in denial. Perhaps in anger. Perhaps in pure and utter regret. She didn't know that she was the best part of his day. She didn't know that every waking second he wasn't with her or calling her or texting her, he missed her. She didn't know that he looked back at their old texts and cried. But most importantly, she truly didn't understand how much he loved her. And that was the cruellest tragedy.</p>
+
+<p style="text-indent:2em">His heart, once a free and noble steed, was now bound ruthlessly in an impenetrable stable of regret, denial, but most dominantly, despair. And as it struck fervently again, and again at the stable's walls, the strikes had seemed to have lost their rhythm. Their impact. With each disordered beat, the chamber of anguish seemed to envelope itself around it, caving in on the steed. The claustrophobic steed who yearned for the freedom and ambition that it once had. And the once honourable mare was thus reborn from the cocoon of woe. Now, a mare of the night. A nightmare.</p>
+
+<p style="text-indent:2em">As the nightmare seemed to consume all the light left in Kai's vision, he soon began to see nothing but a colourless void.</p>
+
+<p style="padding-left:2.5rem"><em>"Kai!"</em></p>
+
+<p style="text-align:center;letter-spacing:.4em;margin:2.5rem 0;color:#8a7a68">* * *</p>
+
+<p style="padding-left:2.5rem"><em>You always knew, didn't you?</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"Who are you?"</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>You knew she didn't love you. Why cling on to false hope?</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"Who's talking? Why does your voice ring in my head."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>I'm the part of you that you've spent your whole life protecting. And ironically enough, it is now you who has broken me down.</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"I must be going mad, talking to my heart."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>So, you know who I am? Why ask then?</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"I wasn't sure whether you were gone yet or not. I clung on to the false hope you weren't."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>Ah, but I'm still here. But only for a little while longer. Because you refuse to let go.</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"What if that's not a choice I can make."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>Then perhaps it is your destiny. After all, I was prophesised to leave at this very minute, no?</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"But I want to live! I want to love! I need you. Please don't go. Please."</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem"><em>You still don't seem to understand.</em></p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+<p style="padding-left:2.5rem">"I…"</p>
+<p style="padding-left:2.5rem"><strong>Beat.</strong></p>
+
+<p style="text-indent:2em"><em>I was made to be broken. That is my purpose. Why I was created. Why I was nurtured and cared for. Raised and fed. Like a pig raised for slaughter. For the day of harvest… has finally arrived.</em></p>
+
+<p style="padding-left:2.5rem"><em>Silence.</em></p>
+<p style="padding-left:2.5rem">"But Rei…"</p>
+<p style="padding-left:2.5rem"><em>Rei!</em></p>
+
+<p style="text-align:center;letter-spacing:.4em;margin:2.5rem 0;color:#8a7a68">* * *</p>
+
+<p style="padding-left:2.5rem">"He seems to be completely healthy."</p>
+
+<p style="text-indent:2em">As Kai awoke to the horrified faces of his parents, he failed to recognize who they were. He was now a heartless soul, incapable of love. And where there was no love, there was no life. He could hear the tune again. Yet this time, its theme seemed to grow exponentially in volume. But the beating of the percussion had seemed to vanish. Ah yes, he could hear it properly now. A requiem.</p>
+    `.trim(),
   },
 ];
 

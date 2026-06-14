@@ -138,9 +138,12 @@ export default function PostPage() {
           />
 
           <div className="prose-yap" style={{ position: 'relative', zIndex: 1 }}>
-            {post.paragraphs.map((para, i) => (
-              <p key={i} dangerouslySetInnerHTML={{ __html: para }} />
-            ))}
+            {post.rawHtml
+              ? <div dangerouslySetInnerHTML={{ __html: post.rawHtml }} />
+              : post.paragraphs.map((para, i) => (
+                  <p key={i} dangerouslySetInnerHTML={{ __html: para }} />
+                ))
+            }
           </div>
         </div>
 
