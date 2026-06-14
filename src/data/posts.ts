@@ -229,8 +229,6 @@ export const posts: Post[] = [
 <p style="text-indent:2em">As Kai awoke to the horrified faces of his parents, he failed to recognize who they were. He was now a heartless soul, incapable of love. And where there was no love, there was no life. He could hear the tune again. Yet this time, its theme seemed to grow exponentially in volume. But the beating of the percussion had seemed to vanish. Ah yes, he could hear it properly now. A requiem.</p>
     `.trim(),
   },
-];
-
   {
     slug: 'dont-leave-me-alone-episode-1',
     title: `Don't Leave Me Alone — Episode 1: Pilot`,
