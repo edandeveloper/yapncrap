@@ -218,6 +218,97 @@
     text-decoration-color: #8a7a68;
   }
 
+  /* ─── Screenplay ─── */
+  .screenplay {
+    font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+    font-size: 0.82rem;
+    line-height: 1.8;
+    color: #1a1209;
+  }
+
+  .sp-title-block {
+    text-align: center;
+    margin: 0 0 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px dashed rgba(196,168,130,0.5);
+  }
+
+  .sp-title-main {
+    font-size: 1.05rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .sp-title-sub {
+    color: #8a7a68;
+    margin-bottom: 0.2rem;
+  }
+
+  .sp-episode {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 0 0 1.5rem;
+    letter-spacing: 0.05em;
+  }
+
+  .sp-fade {
+    margin: 0 0 1rem;
+  }
+
+  .sp-scene {
+    font-weight: bold;
+    margin: 1.75rem 0 0.5rem;
+  }
+
+  .sp-action {
+    margin: 0 0 0.75rem;
+  }
+
+  .sp-trans {
+    text-align: right;
+    margin: 1rem 0;
+  }
+
+  .sp-char {
+    text-align: center;
+    margin: 1rem 0 0;
+  }
+
+  .sp-dialogue {
+    padding: 0 20%;
+    margin: 0 0 0.25rem;
+  }
+
+  .sp-beat {
+    margin: 0.75rem 0;
+    font-style: italic;
+  }
+
+  .sp-music {
+    font-style: italic;
+    margin: 0.25rem 0 0.75rem;
+  }
+
+  .sp-text-cue {
+    font-style: italic;
+    padding-left: 1.5rem;
+    margin: 0.25rem 0;
+  }
+
+  .sp-app-text {
+    padding-left: 2rem;
+    margin: 0.1rem 0;
+    font-style: italic;
+  }
+
+  .sp-end {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 2rem 0 0.5rem;
+    letter-spacing: 0.05em;
+  }
+
   .prose-yap p:first-child::first-letter {
     font-family: 'Lora', Georgia, serif;
     font-size: 3.5rem;

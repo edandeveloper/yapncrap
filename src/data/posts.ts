@@ -231,6 +231,721 @@ export const posts: Post[] = [
   },
 ];
 
+  {
+    slug: 'dont-leave-me-alone-episode-1',
+    title: "Don't Leave Me Alone — Episode 1: Pilot",
+    tagline: "Kai turns 18. His best friend Rei shows up to his party uninvited. An app called Thread predicts the day you die. One percent battery.",
+    date: 'June 14, 2026',
+    tags: ['screenplay', 'fiction', 'film'],
+    rotation: -1.2,
+    tapeColor: 'yellow',
+    paragraphs: [],
+    rawHtml: `
+<div class="screenplay">
+
+<div class="sp-title-block">
+  <div class="sp-title-main">Don't Leave Me Alone</div>
+  <div class="sp-title-sub">written by</div>
+  <div class="sp-title-name">Edan Zhao</div>
+</div>
+
+<div class="sp-episode">Episode 1: Pilot</div>
+
+<div class="sp-fade">FADE IN:</div>
+
+<div class="sp-scene">EXT. KAI'S HOUSE - LATE NIGHT</div>
+
+<div class="sp-action">The scene opens on a wide shot of a nice modern home. There are some cars parked around, and quite a lot of commotion coming from inside. You can hear chatter and laughter and music faintly from outside.</div>
+
+<div class="sp-trans">CUT TO:</div>
+
+<div class="sp-scene">INT. KAI'S HOUSE - UPSTAIRS LIVING ROOM - LATE NIGHT</div>
+
+<div class="sp-action">There are quite a few people in the house. You can tell some type of party is going down. People have drinks in their hand in those stereotypical red cups. Music is playing, people are laughing. Everyone is having a good time.</div>
+
+<div class="sp-action">One guy is talking to this girl, clearly a bit tipsy.</div>
+
+<div class="sp-char">DRUNK GUY</div>
+<div class="sp-dialogue">Yeah nah come over tomorrow and I'll take you for a spin in-</div>
+
+<div class="sp-action">Jay, 18 Male, has two drinks in hand and walks towards the balcony, bumping into the guy as he's in the middle of his sentence.</div>
+
+<div class="sp-char">DRUNK GUY (CONT'D)</div>
+<div class="sp-dialogue">Oi, watch it.</div>
+
+<div class="sp-action">DRUNK GUY has a pissed look on his face. Jay gives him a dirty look, then turns back to walk to the balcony.</div>
+
+<div class="sp-trans">CUT TO:</div>
+
+<div class="sp-scene">EXT. KAI'S HOUSE - BALCONY - LATE NIGHT</div>
+
+<div class="sp-action">Jay walks up to Kai, Male, who's just turned 18. He's gazing at the night sky on the balcony, watching the stars with a blank face. He has a birthday hat on, but doesn't seem in a very celebratory mood. Jay hands Kai his drink.</div>
+
+<div class="sp-char">KAI (AS IF HE'S SNAPPED BACK TO REALITY)</div>
+<div class="sp-dialogue">Thanks.</div>
+
+<div class="sp-action">Kai takes a sip of the drink, then starts to cough immediately.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">What the fuck is this?</div>
+
+<div class="sp-char">JAY (SHRUGS)</div>
+<div class="sp-dialogue">Mark brought it over, said he raided his parent's secret stash. Whatever that is.</div>
+
+<div class="sp-char">KAI (STILL COUGHING)</div>
+<div class="sp-dialogue">Who's Mark?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">That dude from our chemistry class?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Bro at least let me know who you invite before I find a hundred people I don't know show up at my house.</div>
+
+<div class="sp-char">JAY (SHRUGS)</div>
+<div class="sp-dialogue">It's good for you. Make some friends, or something.</div>
+
+<div class="sp-action">Kai doesn't reply and goes back to looking at the horizon.</div>
+
+<div class="sp-char">KAI (STILL COUGHING)</div>
+<div class="sp-dialogue">You know how everyone's excited and shit to drink when they're 18?</div>
+
+<div class="sp-action">Jay gives Kai a "don't be a little bitch" kinda look.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Don't act like you actually like this shit man.</div>
+
+<div class="sp-action">Kai and Jay laugh. Jay takes a sip too. You can tell he forces it down.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Yeah nobody likes it. But you gotta do what you gotta do to have a good time.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Isn't that kinda lame? You have a good time, by not having a good time?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Man shut up with your bullshit and have some fun.</div>
+
+<div class="sp-action">Kai grins at Jay, then takes another sip. This time he swallows it. Jay and Kai gaze at the stars together. You can still hear the party going on in the background.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">What do we do now?</div>
+
+<div class="sp-char">JAY (CONFUSED)</div>
+<div class="sp-dialogue">Huh?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Like. What's next? Uni? A gap year?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Man who cares. Just enjoy tonight, you deserve it.</div>
+
+<div class="sp-action">Jay takes another sip. Kai rubs his eyes.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">But deadass though like I'm being serious.</div>
+
+<div class="sp-char">JAY (SLIGHTLY PISSED)</div>
+<div class="sp-dialogue">I'm deadass too. Why'd you have to pick tonight to get all philisophical.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Maybe because it just hit me. This is real. It's happening now. We're adults like- start paying taxes and shit. Think about making money. Think about moving ou-</div>
+
+<div class="sp-action">Jay gives Kai a "bruh" look. Kai takes the hint.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Yeah alright. I know why you're acting like this.</div>
+
+<div class="sp-action">Kai looks away and takes another sip.</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">You still haven't checked, have you?</div>
+
+<div class="sp-beat">Beat.</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">Why not, it's not gonna change anything the later you look at it. Aren't you curious?</div>
+
+<div class="sp-char">KAI (SMILING)</div>
+<div class="sp-dialogue">Yeah you're right, we should just be enjoying tonight. Let's go check up on everyo-</div>
+
+<div class="sp-char">JAY (INTERRUPTING)</div>
+<div class="sp-dialogue">Fuck you Kai.</div>
+
+<div class="sp-action">Jay punches Kai in the shoulder. The two head off the balcony.</div>
+
+<div class="sp-trans">CUT TO:</div>
+
+<div class="sp-scene">INT. KAI'S HOUSE - DOWNSTAIRS PATIO - LATE NIGHT</div>
+
+<div class="sp-action">There's a girl on her phone. She's very attractive, dark hair, slightly petite. She's leaning against the pole alone, doing something on her phone. We don't see what. She seems too attractive to be alone. A girl in the background who's with a guy glances over at her, and points at her while talking to the guy. She then frisks over while the guy waits. She leans over her shoulder playfully and taps her shoulder.</div>
+
+<div class="sp-char">GIRL</div>
+<div class="sp-dialogue">Heyyy Reiiii...</div>
+
+<div class="sp-char">REI (STILL ON HER PHONE)</div>
+<div class="sp-dialogue">Hey Tifa, what's up.</div>
+
+<div class="sp-char">TIFA</div>
+<div class="sp-dialogue">There's this guy I want you to meet. He's super cute, if I was straight I'd honestly let him impregnate me tonight.</div>
+
+<div class="sp-char">REI (GLANCING UP FROM HER PHONE)</div>
+<div class="sp-dialogue">Girl, what the fuck?</div>
+
+<div class="sp-action">Tifa laughs and pulls on Rei's arm.</div>
+
+<div class="sp-char">TIFA</div>
+<div class="sp-dialogue">Come onnn, just let him introduce himself.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">How many drinks have you had?</div>
+
+<div class="sp-action">Tifa shrugs, then begins to drag Rei over.</div>
+
+<div class="sp-char">REI (CONT'D)</div>
+<div class="sp-dialogue">Hey... Tifa, stop.</div>
+
+<div class="sp-action">Rei turns around. She's facing an extraordinarily handsome guy. He's smiling at her, and raises his hand to say hi.</div>
+
+<div class="sp-char">HANDSOME GUY</div>
+<div class="sp-dialogue">Hey, Rei is it?</div>
+
+<div class="sp-action">Rei is a bit shocked. He's definitely hot. But she recomposes herself and forces Tifa's hands off her.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Hey. Yeah. What do you want.</div>
+
+<div class="sp-char">TIFA (ANGRY LOOK)</div>
+<div class="sp-dialogue">Heyy, be nice!</div>
+
+<div class="sp-char">HANDSOME GUY (LAUGHING)</div>
+<div class="sp-dialogue">I just wanted to meet you. You're pretty popular you know.</div>
+
+<div class="sp-action">Rei sighs, then opens her phone again, opens instagram, and shoves it in the guy's face.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Okay yeah, you're cute. Put it in.</div>
+
+<div class="sp-action">The guy glances at Tifa. Tifa nods her head at the phone, encouraging him to take it. The guy glances back at Tifa again, then glances at Rei, then takes the phone and types in his insta handle.</div>
+
+<div class="sp-action">Rei snatches her phone back as he's about to pass it back. She then walks off to the stairs.</div>
+
+<div class="sp-char">TIFA</div>
+<div class="sp-dialogue">Where are you going??</div>
+
+<div class="sp-char">REI (WHILE WALKING)</div>
+<div class="sp-dialogue">To get a drink!</div>
+
+<div class="sp-action">Rei middle fingers Tifa behind her back.</div>
+
+<div class="sp-char">TIFA (TO HANDSOME GUY)</div>
+<div class="sp-dialogue">If I was gay, I'd let her impregnate me tonight.</div>
+
+<div class="sp-char">HANDSOME GUY</div>
+<div class="sp-dialogue">You are gay. Let's get you some water you're drunk as hell.</div>
+
+<div class="sp-trans">CUT TO:</div>
+
+<div class="sp-scene">INT. KAI'S HOUSE - STAIRS - LATE NIGHT</div>
+
+<div class="sp-action">Rei puts in the wired earphones that were hanging down her shirt as she walks up the stairs. She starts playing a song. As she's going up, Kai and Jay are going down. Kai and Jay spot her coming up, and Jay nudges Kai.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Rei?</div>
+
+<div class="sp-action">Rei glances up and takes out an earbud.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">What are you doing here?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Taking advantage of the free drinks at your lame ass party.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">But you said, and I quote, "Nobody will go to your lame ass party and if they do they're after your money".</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Am I wrong?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Does that include you?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Well duh. I'm not paying for the drinks, right? So they're free.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Fair... enough.</div>
+
+<div class="sp-action">REI walks through Kai and Jay and puts her earbud back in.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">See you around, Kai.</div>
+
+<div class="sp-action">Kai watches Rei walk off. Jay waits for Rei to be out of earshot.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Dude what was that?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">I don't know... ever since her 18th she's just been weird. We used to be so close, you know?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Oh shit, did you finally confess?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Dude no! I'm not stupid.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Well then that's just banter, right?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">These days I can't tell. Banter or not, she clearly is either pissed at me, or everyone.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">I heard Tifa was planning to set her up with Eddie. I love you man, but against him? No chance.</div>
+
+<div class="sp-char">KAI (SHOCKED)</div>
+<div class="sp-dialogue">Eddie? He's on so many roids that a papercut would split his veins open. I hate that guy, he really thinks just because he can bench 150 he's HIM? Like do chicks not care about anything other than how big his arms are and how defined his abs are? Like, the fuck?</div>
+
+<div class="sp-action">Jay gives Kai a "wtf" look.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Yeah. No chance.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Shut up.</div>
+
+<div class="sp-action">Kai and Jay walk down the stairs. Jay is walking backwards facing Kai. In the background, the drunk guy from before is arguing with someone and yelling a lot, while stumbling backwards.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Look, maybe all you need is a little push to get you starte-</div>
+
+<div class="sp-action">Jay bumps into the drunk guy. This time it's pretty rough. He spills his cup and the drink goes all over him. DRUNK GUY turns around, furious. Everyone around them goes quiet.</div>
+
+<div class="sp-char">DRUNK GUY</div>
+<div class="sp-dialogue">Hey what the fuck?</div>
+
+<div class="sp-action">DRUNK GUY looks down at his shirt, then up at Jay and Kai.</div>
+
+<div class="sp-char">DRUNK GUY (CONT'D)</div>
+<div class="sp-dialogue">It's you again? You fucking cunt!</div>
+
+<div class="sp-action">DRUNK GUY sucker punches Jay.</div>
+
+<div class="sp-music">♪  Start playing track: Saturday's Alright for Fighting by Elton John.  ♪</div>
+
+<div class="sp-action">People around start catching on to the commotion. Jay stumbles back clutching his face, off-balance. Kai glances down at Jay and gives him a hand back up, but DRUNK GUY kicks Kai's hand away.</div>
+
+<div class="sp-char">KAI (PISSED)</div>
+<div class="sp-dialogue">What the fuck?</div>
+
+<div class="sp-char">DRUNK GUY</div>
+<div class="sp-dialogue">Y'all are out for me aren't you?</div>
+
+<div class="sp-char">JAY (PISSED)</div>
+<div class="sp-dialogue">What are you on about? It was an accident you dropkick.</div>
+
+<div class="sp-char">DRUNK GUY</div>
+<div class="sp-dialogue">Ah, my bad, I guess this is an accident too.</div>
+
+<div class="sp-action">DRUNK GUY proceeds to kick Kai in the balls, who also falls to the floor, clutching his groin. Jay body tackles DRUNK GUY to the floor, pinning him to the ground. A guy in the background has his phone recording with flash on.</div>
+
+<div class="sp-char">RANDOM GUY</div>
+<div class="sp-dialogue">Worldstar!</div>
+
+<div class="sp-char">ANOTHER RANDOM GUY</div>
+<div class="sp-dialogue">Fuck you mean worldstar? We're in Australia dumbass.</div>
+
+<div class="sp-action">Kai recovers off the floor, fury on his face. DRUNK GUY and Jay struggle on the floor. DRUNK GUY headbutts Jay, who falls backwards. DRUNK GUY gets up in a scary amount of ease, just to be clocked in the face by Kai. Adrenaline, and alcohol, is surging through Kai. He grabs DRUNK GUY by the collar, and raises his fist. But just as he's about to throw it down:</div>
+
+<div class="sp-char">REI (IN CROWD)</div>
+<div class="sp-dialogue">Kai? What the actual fuck are you doing?</div>
+
+<div class="sp-action">Kai glances up at Rei, fist hovering in the air. He's breathing heavily. He's intoxicated and dizzy. His vision is slightly blurry.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Rei?</div>
+
+<div class="sp-action">Before Kai can react, DRUNK GUY sucker punches Kai in the head. He's knocked out.</div>
+
+<div class="sp-trans">CUT TO BLACK.</div>
+
+<div class="sp-scene">EXT. TRAIN STATION - NIGHT</div>
+
+<div class="sp-action">Begin dream sequence. Of course, the audience doesn't know this is a dream. For all they know it could be straight after the party. Kai is sitting at an empty train station at night, hoodie on with wired earphones in. He's listening to some hip hop song (I'll decide later which one). He's just chilling on the bench, hands in pockets, vibing to the song. There's not a soul in sight. The train station is pretty dark, with only a few lights on.</div>
+
+<div class="sp-action">A train approaches, but doesn't stop at the station. As it passes by, on the opposite platform, Rei appears, sitting down opposite Kai on the next platform over. Kai glances up, confused, then takes out an earbud. He rubs his eyes.</div>
+
+<div class="sp-char">KAI (YELLING)</div>
+<div class="sp-dialogue">Rei? Hey! Rei!</div>
+
+<div class="sp-action">Rei doesn't respond. She is on her phone.</div>
+
+<div class="sp-char">KAI (STILL YELLING) (CONT'D)</div>
+<div class="sp-dialogue">Rei! Hello? Can you hear me?</div>
+
+<div class="sp-action">Rei doesn't move. Another train approaches. This train also does not stop at the station. It passes by, and when it is gone, Rei is no longer sitting at the opposite platform.</div>
+
+<div class="sp-action">Kai is confused.</div>
+
+<div class="sp-char">KAI (YELLING) (CONT'D)</div>
+<div class="sp-dialogue">Rei! Where you at? Rei!</div>
+
+<div class="sp-char">REI (BEHIND KAI)</div>
+<div class="sp-dialogue">Stop yelling you idiot. I'm right here.</div>
+
+<div class="sp-action">Kai flinches, shocked by Rei's sudden appearance behind him.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">The fuck? How'd you get there?</div>
+
+<div class="sp-char">REI (ON HER PHONE, SHRUGS)</div>
+<div class="sp-dialogue">I walked?</div>
+
+<div class="sp-action">Kai opens his mouth to say something, but then just shakes his head instead.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Why're you always on your phone?</div>
+
+<div class="sp-char">REI (TEXTING SOMEONE)</div>
+<div class="sp-dialogue">I'm texting you.</div>
+
+<div class="sp-action">Kai's phone goes off. He raises his eyebrow and takes out his phone. There's a message from Rei. Kai opens the chat. This is her first reply after leaving his last message on delivered for 9 hours. On the chat, you can see Kai sent the messages: "Dude, how do people drink vodka raw", "That shit taste so ass", "I get that people wanna be fucked up but why tf not drink smth good", "like mix it with something, you know?", "lowkey, isn't it so weird", "r u out rn?", "rei?".</div>
+
+<div class="sp-action">Rei's response is a single word.</div>
+
+<div class="sp-text-cue">"Right"</div>
+
+<div class="sp-action">Kai sighs and puts his phone away. The two sit in silence for a bit. Rei's still doing something on her phone, earphones in listening to some alternative music. Kai is just staring into the tracks. After a while, Kai breaks the silence.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Is that a "right..." kinda "right" or a "yeah, I know what you mean" kinda "right"?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Can't hear you. Text me.</div>
+
+<div class="sp-action">Kai looks up at Rei with a "wtf" look.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Are you serious?</div>
+
+<div class="sp-action">Rei doesn't respond. Kai sighs, then pulls out his phone and texts Rei:</div>
+
+<div class="sp-text-cue">"Is that a "right..." kinda "right" or a "yeah, ik wym" kinda "right"?"</div>
+
+<div class="sp-action">Rei responds:</div>
+
+<div class="sp-text-cue">"Like, yeah"</div>
+
+<div class="sp-action">Kai responds:</div>
+
+<div class="sp-text-cue">"Right..."</div>
+
+<div class="sp-action">Their train arrives and stops on the platform. There's not a single other person on. Kai gets up and boards, so does Rei, without even looking up from her phone. They sit down, opposite from each other.</div>
+
+<div class="sp-beat">Beat.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Hey, where are we even going?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">I don't know. Where do you want to go?</div>
+
+<div class="sp-char">KAI (V.O.)</div>
+<div class="sp-dialogue">Now you fucking hear me.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">I want to go somewhere I've never been before.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Sure. Let's try that.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">But I'm scared.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Huh? Why?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Because it's the unknown. Everyone's scared of the unknown.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">I'm not.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">You're crazy. You always have been. Ever since primary school.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">I'll take that as a complement.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">What if we end up somewhere dangerous?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Then we'll be somewhere dangerous. Together.</div>
+
+<div class="sp-char">KAI (GLANCES UP AT REI)</div>
+<div class="sp-dialogue">What?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">What.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Nevermind.</div>
+
+<div class="sp-action">Kai pauses. Something is on his mind.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Do you think anything could make us stop being friends?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Eh, I can't think of anything off the top of my head. Why?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">I don't know. You're my best friend, I guess. I just... wouldn't wanna lose you.</div>
+
+<div class="sp-action">Rei looks up from her phone, into Kai's eyes, and laughs.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Whatever dude, enough with that cheesy shit.</div>
+
+<div class="sp-action">Kai smiles back.</div>
+
+<div class="sp-char">KAI (V.O.)</div>
+<div class="sp-dialogue">Her smile is so pretty.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Hey, you remember Paige and Wayne?</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Briefly. Yeah.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Why'd they stop being friends? I swear they were tight.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">I heard that he was into her the whole time. You know how that goes. She was pissed. 5-year friendship, down the drain.</div>
+
+<div class="sp-action">Kai grits his teeth and looks back down.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">So she wasn't into him, huh?</div>
+
+<div class="sp-char">REI (LAUGHS)</div>
+<div class="sp-dialogue">Duh. Look, a girl's worst nightmare is having a guy bestfriend who they feel like they can finally trust, just for them to confess and fuck everything up.</div>
+
+<div class="sp-char">KAI (NERVOUS LAUGH)</div>
+<div class="sp-dialogue">Right...</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">Why'd you ask?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Just wondering. That's all.</div>
+
+<div class="sp-char">REI</div>
+<div class="sp-dialogue">No Kai. You already knew that was how they stopped being friends. Why did you ask if you already knew.</div>
+
+<div class="sp-action">The train's lights start flashing. Everything seems to go quiet. Dutch angle on Rei.</div>
+
+<div class="sp-char">REI (CONT'D)</div>
+<div class="sp-dialogue">Are you... hiding something?</div>
+
+<div class="sp-action">Kai begins to sweat. His heart gets louder, you can hear the beats speeding up too. He clenches his fists together and grits his teeth.</div>
+
+<div class="sp-char">REI (LAUGHING MANICALLY) (CONT'D)</div>
+<div class="sp-dialogue">No! No way!</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">What?</div>
+
+<div class="sp-action">Kai's heart gets louder and faster. The lights flicker faster. Dutch angle, slow zoom up on Rei's face with an evil smile.</div>
+
+<div class="sp-char">REI (STILL LAUGHING)</div>
+<div class="sp-dialogue">Are you fucking into me?</div>
+
+<div class="sp-action">A haunting melody of voices begins to play in the background. Rei's voice is echoing. Kai's vision gets blurry. He's sweating even more. He closes his eyes.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">No! Stop!</div>
+
+<div class="sp-char">REI (STILL LAUGHING)</div>
+<div class="sp-dialogue">You? You think you have a chance with me?</div>
+
+<div class="sp-action">Rei's laughing gets crazier. The choir of voices gets louder, and his heart beat forms the rhythm of the song. Kai's forcing his eyes shut, hands on his ears.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Shut up! Shut up!</div>
+
+<div class="sp-char">REI (CRAZILY LAUGHING)</div>
+<div class="sp-dialogue">Wake up Kai! That'll never happen. Never! Wake up Kai! I said... Wake up!</div>
+
+<div class="sp-action">The choir of voices fade out, along with Kai's heartbeat.</div>
+
+<div class="sp-trans">CUT TO BLACK.</div>
+
+<div class="sp-scene">INT. KAI'S HOUSE - DOWNSTAIRS FLOOR - EARLY MORNING</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Wake up!</div>
+
+<div class="sp-action">Rei's voice fades into Jay's as Kai suddenly sits up, panting heavily and sweating. Everyone's gone, it's just Jay and Kai. Jay's shirt is dirty, his face is bruised, his hair is messy. Kai's in no better shape, similar thing going on. Kai grabs his head with both hands, he has a massive headache.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Ughh... where is everyone?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">They all left as soon as that crazy crackhead knocked you out. You're lucky nobody called the police.</div>
+
+<div class="sp-action">Kai groans and looks around his house. It's pretty trashed, but nothing is too broken. Just a lot of things being left for, and evidence that most people tried to leave ASAP.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">How about... Rei?</div>
+
+<div class="sp-char">JAY (GIVING KAI A CONCERNED LOOK)</div>
+<div class="sp-dialogue">She... Um, she left with Eddie.</div>
+
+<div class="sp-char">KAI (LOOKING DOWN)</div>
+<div class="sp-dialogue">Fuck...dude you invited fucking Eddie?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">I wanted it to be like project X, everyone had like a plus one.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Whatever man... I'm just pissed that Rei actually came and didn't even let me know.</div>
+
+<div class="sp-action">Jay sighs then gives Kai a hand. Kai takes it and painfully gets up. He hobbles over to the couch and then sits back down. Jay jumps onto the couch next to him.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Yeah nah, I'm not gonna be able to clean this place up for a bit. What a ceebs.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Dude, your parents are back tonight.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Whatever man. What a shit birthday that was, right?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Yeah man. Fuck that guy who even invited him?</div>
+
+<div class="sp-action">Kai gives Jay a dirty look.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Whatever, I don't even care. Just help me clean all this shit up and we're even.</div>
+
+<div class="sp-action">Jay reluctantly gets up, groans, then sits back down.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">You know man, if things got way out of hand maybe it could've been your last night.</div>
+
+<div class="sp-action">Kai looks over at Jay.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">What're you trying to say.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">How are you not just itching to check?</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">Like, I remember I stayed up til midnight the day before my 18th. Couldn't sleep because I was freaking the fuck out.</div>
+
+<div class="sp-action">Kai sighs and then shuts his eyes.</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">Just saying man, would be nice to have some peace of mind, right?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">I don't want to think about that shit right now.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Wouldn't you rather know? Then you won't ever be scared of doing something dangerous, like skydiving or... hooking up raw with a prostitute or... buying drugs or... getting beat the fuck up at your own party?</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Why did every example you just give involve something illegal?</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Skydiving is legal last time I checked.</div>
+
+<div class="sp-char">KAI (GROANS)</div>
+<div class="sp-dialogue">Look dude. Fuck it. Fine. Just to get you off my ass I'll check. But I swear to you man, if I regret it, I'm not stepping out of this house.</div>
+
+<div class="sp-action">Kai takes his phone out from his pocket. Jay excitedly gets up and grins.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Finally bro has some sense in him.</div>
+
+<div class="sp-action">Kai turns his phone on, it's on one percent. He goes to an app called "Thread" and taps on it. It prompts him with a login. Then, it checks his face ID, and the app takes him to some sort of animated video. Text comes up on the screen.</div>
+
+<div class="sp-app-text">Welcome, Kai.</div>
+<div class="sp-app-text">You are now eligible to receive your prediction.</div>
+<div class="sp-app-text">Thread has successfully predicted every recorded death since its creation.</div>
+<div class="sp-app-text">The future cannot be changed, but it can be understood.</div>
+<div class="sp-app-text">Press below to discover your thread of fate.</div>
+<div class="sp-app-text">[ Get My Prediction ]</div>
+
+<div class="sp-action">Kai takes a deep breath and closes his eyes.</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">Come on man! Hurry up!</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Just give me a sec man.</div>
+
+<div class="sp-beat">Beat.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Dude, I don't think I can do it.</div>
+
+<div class="sp-action">Kai starts to breathe faster, beginning to hyperventilate.</div>
+
+<div class="sp-char">KAI (CONT'D)</div>
+<div class="sp-dialogue">Yo, Jay, what the fuck is happening to my body.</div>
+
+<div class="sp-char">JAY (CONCERNED)</div>
+<div class="sp-dialogue">Hey look. Man, chill. Look, you're clearly anxious as hell and I think you're having a panic attack. Alright just close your eyes, slow breath, in from your nose, out through your mouth, alright?</div>
+
+<div class="sp-action">Kai continues to hyperventilate, his eyes opening.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Nah fuck this man. I came this far I should just fucking check it.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">I'm sorry dude I didn't know you were this stressed about it. Look we don't have to check-</div>
+
+<div class="sp-char">KAI (YELLING)</div>
+<div class="sp-dialogue">No! I gotta check now! Otherwise I'm gonna fucking lose it dude.</div>
+
+<div class="sp-action">Jay grabs Kai a bottle of water.</div>
+
+<div class="sp-char">JAY</div>
+<div class="sp-dialogue">Look Kai, just drink some water-</div>
+
+<div class="sp-action">Kai snatches the bottle and slams it to the floor. He has his thumb hovering over the button. He's beginning to sweat.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Fuck! Jay! Why'd you make me do this shit I wasn't ready!</div>
+
+<div class="sp-char">JAY (SHOCKED)</div>
+<div class="sp-dialogue">Shit. I swear I didn't know. Dude you never talk about your mental health or anything I always thought you're cold as ice or something? Yo, Kai, let's just delete the app alright nobody's forcing you to check it right now. That was my fault man.</div>
+
+<div class="sp-action">Kai's heartrate is fast and loud, you can hear it thumping. He clenches his eyes shut, Jay's voice fades and is muffled. You can only hear Kai's fast heartbeats and his fast breathing. Then we show Kai's thumb, just above the button.</div>
+
+<div class="sp-char">JAY (CONT'D)</div>
+<div class="sp-dialogue">Kai! Yo, Kai don't do it-</div>
+
+<div class="sp-action">Kai puts his thumb down and taps the button, but as soon as he does, the phone dies. It's out of battery. Kai forces his eyes open and looks down. He tries to turn the phone back on. He holds down the power button: it comes up with the out of battery symbol. Kai, still heavily panting, looks directly at the camera.</div>
+
+<div class="sp-char">KAI</div>
+<div class="sp-dialogue">Fuck.</div>
+
+<div class="sp-trans">CUT TO BLACK.</div>
+
+<div class="sp-end">EPISODE 1: PILOT — THE END</div>
+
+</div>
+    `.trim(),
+  },
+];
+
 export function getPost(slug: string): Post | undefined {
   return posts.find(p => p.slug === slug);
 }
