@@ -45,9 +45,9 @@ export default function PostPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.08, duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
             style={{
-              fontFamily: "'Playfair Display', Georgia, serif",
-              fontSize: 'clamp(2rem, 6vw, 3.25rem)',
-              fontWeight: 900,
+              fontFamily: "'Lora', Georgia, serif",
+              fontSize: 'clamp(2rem, 6vw, 3rem)',
+              fontWeight: 700,
               color: '#1a1209',
               lineHeight: 1.1,
               marginBottom: '1rem',

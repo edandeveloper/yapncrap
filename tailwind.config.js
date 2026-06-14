@@ -18,10 +18,9 @@ export default {
         'tape-blue': '#b8d4e8',
       },
       fontFamily: {
-        display: ['"Playfair Display"', 'Georgia', 'serif'],
+        display: ['"Lora"', 'Georgia', 'serif'],
         typewriter: ['"Special Elite"', 'monospace'],
         body: ['"DM Sans"', 'system-ui', 'sans-serif'],
-        bold: ['"Bebas Neue"', '"Arial Narrow"', 'sans-serif'],
       },
       boxShadow: {
         'paper': '2px 2px 8px rgba(26, 18, 9, 0.12), 0 1px 3px rgba(26, 18, 9, 0.08)',

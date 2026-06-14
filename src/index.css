@@ -31,10 +31,11 @@
 
   /* ─── Typography ─── */
   .collage-title {
-    font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+    font-family: 'Lora', Georgia, serif;
+    font-weight: 700;
     color: #1a1209;
-    line-height: 0.9;
-    letter-spacing: 0.02em;
+    line-height: 0.88;
+    letter-spacing: -0.03em;
     text-shadow:
       3px 4px 0 rgba(255, 255, 255, 0.9),
       6px 8px 0 rgba(255, 255, 255, 0.4);
@@ -49,8 +50,8 @@
   }
 
   .section-title {
-    font-family: 'Playfair Display', Georgia, serif;
-    font-weight: 700;
+    font-family: 'Lora', Georgia, serif;
+    font-weight: 600;
     color: #1a1209;
     line-height: 1.1;
   }
@@ -206,9 +207,9 @@
   }
 
   .prose-yap p:first-child::first-letter {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'Lora', Georgia, serif;
     font-size: 3.5rem;
-    font-weight: 900;
+    font-weight: 700;
     line-height: 0.8;
     float: left;
     margin-right: 8px;

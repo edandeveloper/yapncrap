@@ -60,9 +60,9 @@ export default function PostCard({ post, index }: Props) {
         <h2
           className="mb-2 group-hover:text-ink-light transition-colors duration-200"
           style={{
-            fontFamily: "'Playfair Display', Georgia, serif",
-            fontSize: '1.15rem',
-            fontWeight: 700,
+            fontFamily: "'Lora', Georgia, serif",
+            fontSize: '1.1rem',
+            fontWeight: 600,
             color: '#1a1209',
             lineHeight: 1.25,
           }}

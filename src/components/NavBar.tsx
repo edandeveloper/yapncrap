@@ -17,9 +17,10 @@ export default function NavBar() {
         <span
           className="font-bold text-ink"
           style={{
-            fontFamily: "'Bebas Neue', 'Arial Narrow', sans-serif",
-            fontSize: '1.35rem',
-            letterSpacing: '0.04em',
+            fontFamily: "'Lora', Georgia, serif",
+            fontWeight: 700,
+            fontSize: '1.2rem',
+            letterSpacing: '-0.03em',
             textShadow: '2px 3px 0 rgba(255,255,255,0.9), 4px 6px 0 rgba(255,255,255,0.35)',
             transition: 'text-shadow 0.2s ease',
           }}
@@ -34,9 +35,9 @@ export default function NavBar() {
             all posts
           </Link>
         )}
-        <span className="section-label" style={{ fontSize: '10px' }}>
-          thoughts that leak out
-        </span>
+        <Link to="/about" className="paper-nav-link">
+          about
+        </Link>
       </div>
     </motion.nav>
   );

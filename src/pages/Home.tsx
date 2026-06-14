@@ -37,7 +37,7 @@ export default function Home() {
               textTransform: 'uppercase',
             }}
           >
-            est. 2024
+            est. 2026
           </div>
         </motion.div>
 
@@ -76,24 +76,41 @@ export default function Home() {
             yap 'n' crap
           </h1>
 
-          <motion.p
+          <motion.blockquote
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.35, duration: 0.5 }}
             style={{
-              fontFamily: "'Special Elite', monospace",
-              fontSize: '0.9rem',
+              fontFamily: "'DM Sans', system-ui, sans-serif",
+              fontSize: '0.82rem',
               color: '#8a7a68',
-              letterSpacing: '0.06em',
-              marginTop: '1.25rem',
-              maxWidth: '420px',
-              lineHeight: 1.6,
+              marginTop: '2.75rem',
+              maxWidth: '480px',
+              lineHeight: 1.85,
+              textAlign: 'left',
+              borderLeft: '2px solid rgba(196,168,130,0.5)',
+              paddingLeft: '1rem',
             }}
           >
-            philosophical musings, witty observations,
-            <br />
-            and honestly just random stuff.
-          </motion.p>
+            <p style={{ margin: '0 0 0.75rem', fontStyle: 'italic' }}>
+              "This is a story about how I learned something and I'm not saying this thing is true or not
+              <br />I'm just saying it's what I learned
+              <br />I told you something. It was just for you and you told everybody
+              <br />So I learned cut out the middle man, make it all for everybody, always
+              <br />Everybody can't turn around and tell everybody, everybody already knows, I told them
+              <br />But this means there isn't a place in my life for you or someone like you
+              <br />Is it sad? Sure. But it's a sadness I chose"
+            </p>
+            <span style={{
+              fontFamily: "'Special Elite', monospace",
+              fontSize: '10px',
+              letterSpacing: '0.15em',
+              textTransform: 'uppercase',
+              color: '#c4a882',
+            }}>
+              — "That Power" · Childish Gambino
+            </span>
+          </motion.blockquote>
         </motion.div>
 
         {/* Floating sticker — bottom right */}
