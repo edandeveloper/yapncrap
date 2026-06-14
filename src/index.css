@@ -1,0 +1,218 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    background-color: #f4ede0;
+    color: #1a1209;
+    font-family: 'DM Sans', system-ui, sans-serif;
+    overflow-x: hidden;
+    background-image:
+      url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+    background-size: 200px 200px;
+  }
+
+  #root { width: 100%; min-height: 100vh; }
+
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: #f4ede0; }
+  ::-webkit-scrollbar-thumb { background: #c4a882; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #8a7a68; }
+}
+
+@layer components {
+
+  /* ─── Typography ─── */
+  .collage-title {
+    font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+    color: #1a1209;
+    line-height: 0.9;
+    letter-spacing: 0.02em;
+    text-shadow:
+      3px 4px 0 rgba(255, 255, 255, 0.9),
+      6px 8px 0 rgba(255, 255, 255, 0.4);
+  }
+
+  .section-label {
+    font-family: 'Special Elite', monospace;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #8a7a68;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+    color: #1a1209;
+    line-height: 1.1;
+  }
+
+  /* ─── Paper / card surfaces ─── */
+  .paper-card {
+    background: #faf7f2;
+    box-shadow: 2px 2px 8px rgba(26,18,9,0.12), 0 1px 3px rgba(26,18,9,0.08);
+    position: relative;
+  }
+
+  /* Washi tape strip */
+  .tape {
+    position: absolute;
+    width: 60px;
+    height: 20px;
+    background: rgba(245, 230, 163, 0.75);
+    border-left: 1px solid rgba(196, 168, 130, 0.3);
+    border-right: 1px solid rgba(196, 168, 130, 0.3);
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  .tape-blue {
+    background: rgba(184, 212, 232, 0.7);
+  }
+
+  /* Pin / thumbtack */
+  .pin {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #e8c84a, #b8943a);
+    box-shadow: 0 1px 3px rgba(26,18,9,0.4);
+    z-index: 10;
+  }
+
+  /* Torn paper edge — section dividers */
+  .torn-bottom {
+    position: relative;
+  }
+  .torn-bottom::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: inherit;
+    clip-path: polygon(
+      0% 0%, 3% 60%, 7% 20%, 11% 80%, 15% 30%, 19% 70%, 23% 15%,
+      27% 65%, 31% 25%, 35% 75%, 39% 20%, 43% 70%, 47% 30%, 51% 80%,
+      55% 25%, 59% 65%, 63% 15%, 67% 70%, 71% 25%, 75% 75%, 79% 20%,
+      83% 65%, 87% 30%, 91% 80%, 95% 20%, 98% 60%, 100% 0%, 100% 100%, 0% 100%
+    );
+  }
+
+  .torn-top {
+    position: relative;
+  }
+  .torn-top::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: inherit;
+    z-index: 1;
+    clip-path: polygon(
+      0% 100%, 2% 40%, 5% 80%, 9% 30%, 13% 70%, 17% 20%, 21% 65%,
+      25% 15%, 29% 55%, 33% 10%, 37% 50%, 41% 5%, 45% 45%, 49% 0%,
+      53% 40%, 57% 85%, 61% 35%, 65% 75%, 69% 25%, 73% 60%, 77% 10%,
+      81% 50%, 85% 90%, 89% 40%, 93% 70%, 97% 25%, 100% 55%, 100% 100%
+    );
+  }
+
+  /* Ruled paper background */
+  .ruled-paper {
+    background-image:
+      linear-gradient(rgba(196, 168, 130, 0.3) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(196, 168, 130, 0.25) 1px, transparent 1px);
+    background-size: 100% 28px, 48px 100%;
+    background-position: 0 28px, 48px 0;
+  }
+
+  /* Red underline accent */
+  .red-underline {
+    display: inline-block;
+    position: relative;
+  }
+  .red-underline::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #c4a882;
+  }
+
+  /* Nav */
+  .paper-nav-link {
+    font-family: 'Special Elite', monospace;
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #8a7a68;
+    cursor: pointer;
+    position: relative;
+    transition: color 0.2s;
+    padding: 2px 0;
+    text-decoration: none;
+  }
+  .paper-nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: #8a7a68;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.2s ease;
+  }
+  .paper-nav-link:hover { color: #1a1209; }
+  .paper-nav-link:hover::after { transform: scaleX(1); }
+  .paper-nav-link.active { color: #1a1209; }
+  .paper-nav-link.active::after { transform: scaleX(1); }
+
+  /* Scrap card (blog post card) */
+  .scrap-card {
+    background: #faf7f2;
+    position: relative;
+    box-shadow: 2px 3px 10px rgba(26,18,9,0.12);
+    overflow: visible;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+  }
+
+  .scrap-card:hover {
+    box-shadow: 4px 6px 18px rgba(26,18,9,0.18);
+  }
+
+  /* Post body prose */
+  .prose-yap p {
+    font-family: 'DM Sans', system-ui, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.85;
+    color: #1a1209;
+    margin-bottom: 1.5rem;
+  }
+
+  .prose-yap p:first-child::first-letter {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 0.8;
+    float: left;
+    margin-right: 8px;
+    margin-top: 6px;
+    color: #3d2e1e;
+  }
+}
