@@ -206,6 +206,18 @@
     margin-bottom: 1.5rem;
   }
 
+  .prose-yap a {
+    color: #3d2e1e;
+    text-decoration: underline;
+    text-decoration-color: rgba(196,168,130,0.6);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.15s ease;
+  }
+
+  .prose-yap a:hover {
+    text-decoration-color: #8a7a68;
+  }
+
   .prose-yap p:first-child::first-letter {
     font-family: 'Lora', Georgia, serif;
     font-size: 3.5rem;
