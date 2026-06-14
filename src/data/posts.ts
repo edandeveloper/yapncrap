@@ -232,7 +232,7 @@ export const posts: Post[] = [
   {
     slug: 'dont-leave-me-alone-episode-1',
     title: `Don't Leave Me Alone — Episode 1: Pilot`,
-    tagline: "Kai turns 18. His best friend Rei shows up to his party uninvited. An app called Thread predicts the day you die. One percent battery.",
+    tagline: "The pilot episode screenplay for my new psychological coming-of-age series, Don't Leave Me Alone. Kai and Rei live in a world where an AI app called Thread can predict an individual's cause of death once they turn 18. Kai and Rei, bound by their fates, attempt to escape their destiny, but only end up pushing themselves closer to the future they are so desperate to avoid.",
     date: 'June 14, 2026',
     tags: ['screenplay', 'fiction', 'film'],
     rotation: -1.2,
