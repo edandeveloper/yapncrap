@@ -233,7 +233,7 @@ export const posts: Post[] = [
 
   {
     slug: 'dont-leave-me-alone-episode-1',
-    title: "Don't Leave Me Alone — Episode 1: Pilot",
+    title: `Don't Leave Me Alone — Episode 1: Pilot`,
     tagline: "Kai turns 18. His best friend Rei shows up to his party uninvited. An app called Thread predicts the day you die. One percent battery.",
     date: 'June 14, 2026',
     tags: ['screenplay', 'fiction', 'film'],
